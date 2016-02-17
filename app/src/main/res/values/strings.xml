@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learning english</string>
+
+    <string name="hello_world">Learning english</string>
+    <string name="action_settings">Learning english</string>
+    <string name="title_activity_intro_uno">Learning english</string>
+    <string name="title_activity_intro_dos">Learning english</string>
+    <string name="title_activity_intro_tres">Learning english</string>
+</resources>
